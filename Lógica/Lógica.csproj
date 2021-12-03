@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InventarioSedeService.cs" />
     <Compile Include="SedeService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
